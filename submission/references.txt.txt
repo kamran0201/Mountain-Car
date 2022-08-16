@@ -1,0 +1,16 @@
+https://www.cse.unsw.edu.au/~cs9417ml/RL1/algorithms.html
+https://observablehq.com/@j-kan/temporal-difference-learning-sarsa-0
+https://legacy.cs.indiana.edu/~gasser/Smarts/learning.html
+https://artint.info/2e/html/ArtInt2e.Ch12.S9.SS1.html
+https://stackoverflow.com/questions/29978406/implementing-sarsa-using-gradient-discent
+https://stackoverflow.com/questions/31175223/append-a-tuple-to-a-list-whats-the-difference-between-two-ways/31175264
+https://stackoverflow.com/questions/27784528/numpy-division-with-runtimewarning-invalid-value-encountered-in-double-scalars
+https://stackoverflow.com/questions/432112/is-there-a-numpy-function-to-return-the-first-index-of-something-in-an-array
+https://www.programiz.com/python-programming/methods/list/index
+https://stackoverflow.com/questions/22345951/python-idiom-for-creating-dict-of-dict-of-list
+https://www.geeksforgeeks.org/sarsa-reinforcement-learning/
+https://stackoverflow.com/questions/29042182/creating-a-4d-matrix-full-of-zeros-in-python-numpy
+https://www.kite.com/python/answers/how-to-create-a-3d-numpy-array-in-python
+https://towardsdatascience.com/summary-of-tabular-methods-in-reinforcement-learning-39d653e904af
+https://towardsdatascience.com/intro-to-reinforcement-learning-temporal-difference-learning-sarsa-vs-q-learning-8b4184bb4978
+https://stackoverflow.com/questions/43405777/what-are-the-causes-of-overflow-encountered-in-double-scalars-besides-division-b
